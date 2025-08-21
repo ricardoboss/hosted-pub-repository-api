@@ -1,0 +1,15 @@
+name: Hosted Pub Repository Specification Version 2 (pub.dev)
+description: This repository hosts the OpenAPI 3.1 specification for the Hosted Pub Repository Specification Version 2.
+tags:
+  - dart
+  - dart-lang
+  - pub
+  - pub-dev
+  - flutter
+apis:
+  - name: Hosted Pub Repository Specification Version 2
+    description: The OpenAPI 3.1 specification for the Hosted Pub Repository Specification Version 2.
+    baseUrl: https://pub.dev
+    properties:
+      - type: x-openapi
+        url: spec.yaml
