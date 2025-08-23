@@ -5,3 +5,6 @@ options:
     emitter-output-dir: "{output-dir}/schema"
     openapi-versions:
       - 3.1.0
+linter:
+  extends:
+    - "@typespec/http/all"
